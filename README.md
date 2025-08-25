@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 M.S. Business Analytics @ UNT | 💼 Ex-Reporting Analyst @ Cognizant Technology Solutions (Client : Deluxe Corporation(United states))  
-🤖 Data, AI, and BI Enthusiast | 📍 Denton, TX | 📧 nareshnandimandalam91@gmail.com
+🤖 Data, AI, and BI Enthusiast | 📧 nareshnandimandalam91@gmail.com
 </p>
 
 ---
