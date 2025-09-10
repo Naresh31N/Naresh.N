@@ -1,92 +1,90 @@
 <h1 align="center">Hey, I'm Naresh Nandimandalam 👋</h1>
 
 <p align="center">
-🎓 M.S. Business Analytics @ UNT | 💼 Ex-Reporting Analyst @ Cognizant Technology Solutions (Client : Deluxe Corporation(United states))  
-🤖 Data, AI, and BI Enthusiast | 📍 Denton, TX | 📧 nareshnandimandalam91@gmail.com
+🎓 M.S. Business Analytics @ UNT (Dec 2025) | 💼 Ex-Data Analyst @ Cognizant|  
+📊 Data Analytics | 📦 Supply Chain | 🚀 Business Intelligence | 📧 nareshnandimandalam91@gmail.com  
 </p>
 
 ---
 
 ## 💼 About Me
 
-I'm a results-driven Business Analytics professional passionate about transforming complex data into powerful insights and automation. With 4+ years of hands-on experience in SQL, Python, Power BI, Excel Macros, Salesforce, and SharePoint, I specialize in building data solutions that drive efficiency and decision-making across organizations.
+I'm a **Business Analytics graduate student** at the University of North Texas, passionate about **data analytics, BI solutions, and supply chain optimization**.  
+With **3+ years of experience** at Cognizant, I’ve built **data-driven dashboards, automated ETL workflows, and developed reporting solutions** that improve decision-making and operational efficiency.
 
-Currently pursuing my Master’s in Business Analytics at the University of North Texas (Dec 2025), I focus on solving real-world challenges through data analysis, AI, GenAI tools, and enterprise systems like SAP and Salesforce.
+I specialize in **Power BI, Tableau, SQL, Python, and Azure Data Factory** and love solving **real-world business problems** through analytics, visualization, and automation.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 UNT Smart Draft – Agentic AI Email Assistant
-- Built a **voice-activated email generator** using GPT-3.5, Selenium, and gTTS
-- Automated Outlook email composition, saving up to **60% of manual time**
-- Tech: Python, OpenAI GPT-3.5, SpeechRecognition, Dialogflow, Selenium  
-🔗 [Coming Soon on GitHub]
+### 📦 Global Supply Chain Risk & Disruption Dashboard  
+- Designed an interactive **Power BI dashboard** integrating shipping, weather, and trade datasets.  
+- Enabled **20% reduction in inventory losses** by providing **early risk warnings** and supplier performance insights.  
+- Tools: Power BI, SQL, Python APIs  
 
 ---
 
-### 🧪 Predicting Chronic Kidney Disease (ML Project)
-- Achieved **92% model accuracy** using Scikit-learn Random Forest
-- Optimized prediction using clinical feature selection and classification  
-🔗 [Coming Soon on GitHub]
+### 📊 Inventory Optimization & Logistics Cost Analysis  
+- Built dashboards to analyze **SKU-level inventory**, improving warehouse utilization by **15%**.  
+- Identified **12% cost-saving opportunities** via regional transportation cost analysis.  
+- Tools: Tableau, Power BI, SQL  
 
 ---
 
-### 📈 Sales Forecasting using Time Series (ARIMA & LSTM)
-- Forecasted monthly sales with **85% accuracy**
-- Visualized seasonal trends in **Power BI & Tableau**  
-🔗 [Coming Soon on GitHub]
+### 💰 Enterprise Revenue Leakage Detector  
+- Designed BI dashboards to detect anomalies in **invoices, discounts, and unbilled services**.  
+- Helped enterprises **recover $10M+ annually** in potential revenue.  
+- Tools: Power BI, SQL, Azure Data Factory  
 
 ---
 
-### 👥 Customer Segmentation using K-Means & DBSCAN
-- Segmented customers by purchasing behavior to boost targeting by **15%**
-- Created **interactive Tableau & Power BI dashboards**  
-🔗 [Coming Soon on GitHub]
+### 🧠 Predicting Mental Health Risks from Social Media  
+- Trained NLP models to classify **Reddit/Twitter posts** for early signs of stress, burnout, and depression.  
+- Built a dashboard for HR teams to **track employee wellness trends**.  
+- Tools: Python, TensorFlow, Hugging Face, Power BI  
 
 ---
 
-## Professional Experience
+## 🏢 Professional Experience
 
-### 🏢 Cognizant – Deluxe Corporation (Reporting Analyst)
-- Automated 15+ KPIs & dashboards with Power BI, SQL, and SharePoint
-- Reduced reporting prep time by **40%**; improved SLA monitoring by **20%** via Salesforce Analytics
-- Integrated ETL logic and SharePoint workflows to support executive insights  
--	Revamped weekly AR aging reports using Excel pivot tables and custom macros, reducing report preparation time by 40% and minimizing manual intervention by 10%. 
-- Analyzed client service interactions via Salesforce Analytics to uncover workflow bottlenecks in ticket escalation, resulting in a **20%** improvement in service response time. 
-- Maintained and validated client master data using SQL-driven ETL pipelines ,achieving a **98%** accuracy rate that supported quarterly business strategy reports.
-- Optimized SQL queries and automated daily volume dashboards on SharePoint, improving data refresh timeliness by 25% and reducing latency in operational reporting. 
-- Developed and distributed 15+ daily automated performance and financial dashboards via Power BI and SharePoint workflows, improving visibility across management and operations teams. 
+### **Cognizant Technology Solutions** – *Data Analyst*  
+*Nov 2021 – Dec 2023 | Client: Deluxe Corporation, USA*
 
+- Collaborated with **cross-functional teams** including finance, operations, and engineering to streamline reporting workflows.  
+- Revamped AR aging reports using **Excel Pivot Tables & Macros**, reducing reporting time by **40%**.  
+- Developed **15+ automated KPI dashboards** in Power BI & SharePoint, improving business visibility.  
+- Analyzed client service data via Salesforce Analytics, improving **service response time by 20%**.  
+- Optimized **SQL queries** and automated daily reports, enhancing **data availability by 25%**.
 
 ---
 
 ## 🧠 Skills Snapshot
 
-| Category | Tools / Technologies |
-|---------|-----------------------|
-| Programming | Python, R, SQL |
-| BI Tools | Power BI, Tableau, Excel (Macros, PivotTables), SharePoint |
-| AI/GenAI | OpenAI (GPT-3.5), LangChain, Dialogflow, AutoML |
-| Platforms | Salesforce Analytics, SAP (Basic), SAS (Basic) |
-| Data Science | Predictive Modeling, Clustering, Forecasting, Statistical Analysis |
-| Visualization & UX | Dashboards, Flowcharts, Wireframes |
-| Productivity | MS Office Suite, Miro, Canva, JIRA, Outlook Automation |
+| Category               | Tools / Technologies |
+|-----------------------|-----------------------|
+| **Programming**      | Python, R, SQL |
+| **BI & Visualization** | Power BI, Tableau, Excel (PivotTables, Macros), Qlik Sense |
+| **Data Engineering** | Azure Data Factory, Power Query, Snowflake |
+| **Machine Learning** | Scikit-learn, TensorFlow, Hugging Face |
+| **Collaboration**    | JIRA, Confluence, MS Teams, SharePoint |
+| **Platforms**       | Salesforce Analytics, SAP (Basic), SAS |
+| **Soft Skills**     | Cross-functional Collaboration, Stakeholder Management, Strategic Planning |
 
 ---
 
 ## 🎓 Education
 
 **University of North Texas**  
-*M.S. in Business Analytics (Jan 2024 – Dec 2025)*  
-Coursework: Data Science, Forecasting, AI & ML, Hypothesis Testing, Project Management
+*M.S. in Business Analytics* *(Jan 2024 – Dec 2025)*  
+Relevant Coursework: Supply Chain Analytics, Predictive Modeling, Data Visualization, Big Data, AI for Business, Business Intelligence Systems
 
 **Osmania University**  
 *B.Com in Computer Applications (2018 – 2021)*
 
 ---
 
-## 🤝 Let’s Connect and Create impact together.
+## 🤝 Let’s Connect and Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naresh200" target="_blank">
@@ -104,13 +102,13 @@ Coursework: Data Science, Forecasting, AI & ML, Hypothesis Testing, Project Mana
 
 ## 🔍 Current Focus Areas
 
-🎯 Building high-impact projects in:
-- 📊 Business Intelligence & Data Analytics  
-- 🧠 Generative AI Applications & Agentic Workflows  
-- 🧪 Predictive Modeling & Statistical Forecasting  
-- 💼 Reporting Automation using Salesforce, SharePoint, Power BI  
-- 📝 Flowcharts, Business Logic Mapping, and Dashboard Design  
+🎯 Building impactful projects in:  
+- 📊 **Business Intelligence & Data Analytics**  
+- 📦 **Supply Chain Analytics & Optimization**  
+- 🧠 **Generative AI Applications & Agentic Workflows**  
+- 🧪 **Predictive Modeling & Statistical Forecasting**  
+- 🔄 **Reporting Automation & Dashboarding**
 
 ---
 
-> 🌟 *"I believe in using data, design, and AI to simplify complexity and accelerate decisions."*
+> 🌟 *\"I believe in using data, design, and AI to simplify complexity and accelerate business decisions.\"*
