@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Naresh Nandimandalam 👋</h1>
 
 <p align="center">
-🎓 M.S. Business Analytics @ UNT (Dec 2025) | 💼 Ex-Data Analyst @ Cognizant (Client: Deluxe Corporation, USA)  
+🎓 M.S. Business Analytics @ UNT (Dec 2025) | 💼 Ex-Data Analyst @ Cognizant|  
 📊 Data Analytics | 📦 Supply Chain | 🚀 Business Intelligence | 📧 nareshnandimandalam91@gmail.com  
 </p>
 
@@ -10,7 +10,7 @@
 ## 💼 About Me
 
 I'm a **Business Analytics graduate student** at the University of North Texas, passionate about **data analytics, BI solutions, and supply chain optimization**.  
-With **2+ years of experience** at Cognizant, I’ve built **data-driven dashboards, automated ETL workflows, and developed reporting solutions** that improve decision-making and operational efficiency.
+With **3+ years of experience** at Cognizant, I’ve built **data-driven dashboards, automated ETL workflows, and developed reporting solutions** that improve decision-making and operational efficiency.
 
 I specialize in **Power BI, Tableau, SQL, Python, and Azure Data Factory** and love solving **real-world business problems** through analytics, visualization, and automation.
 
